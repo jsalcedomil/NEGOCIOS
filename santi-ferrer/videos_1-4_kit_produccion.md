@@ -63,7 +63,7 @@ slight grain, no text, no logos, no music.
 
 | # | Tiempo | Tipo | DIÁLOGO / VOZ EN OFF | Texto en pantalla |
 |---|---|---|---|---|
-| 1 | 0–6 s | HABLA | "Si este año vas a postular al COLMIL, a Sargentos o a la Policía… este video es para vos." | **¿POSTULÁS ESTE AÑO? 🇧🇴** |
+| 1 | 0–8 s | HABLA ✅ GRABADA (Gemini) | "Si este año vas a postular al COLMIL, Escuela de Sargentos, Policía y otros institutos… este video es para vos." | **¿POSTULÁS ESTE AÑO? 🇧🇴** |
 | 2 | 6–13 s | HABLA | "Soy Santi Ferrer, de Cochabamba. Vengo de familia militar y me preparé dos años para postular." | Santi Ferrer · Coach de postulantes |
 | 3 | 13–18 s | HABLA | "Me equivoqué en muchas cosas… para que vos no te equivoques." | — |
 | 4 | 18–28 s | B-ROLL (3 tomas) | Voz en off: "Acá te enseño a pasar la prueba física, a manejar la altura si rendís en La Paz, qué comer… y qué equipo sí vale la pena." | Prueba física · Altura · Nutrición · Equipo |
@@ -72,7 +72,7 @@ slight grain, no text, no logos, no music.
 
 **Prompts de video (añade antes el bloque de personaje):**
 
-- **Clip 1:** `He has just climbed stone stairs on a hill in Cochabamba at golden hour, slightly out of breath, black tactical backpack on, stops and talks directly to the camera with energy and urgency. He says in Spanish with a Bolivian accent: "Si este año vas a postular al COLMIL, a Sargentos o a la Policía… este video es para vos." Handheld selfie-style camera, subtle shake.`
+- **Clip 1:** `He has just climbed stone stairs on a hill in Cochabamba at golden hour, slightly out of breath, black tactical backpack on, stops and talks directly to the camera with energy and urgency. He says in Spanish with a Bolivian accent: "Si este año vas a postular al COLMIL, Escuela de Sargentos, Policía y otros institutos… este video es para vos." Handheld selfie-style camera, subtle shake.`
 - **Clip 2:** `Same location, he catches his breath and talks calmly and sincerely to the camera, small proud smile. He says in Spanish: "Soy Santi Ferrer, de Cochabamba. Vengo de familia militar y me preparé dos años para postular."`
 - **Clip 3:** `Same location, honest expression, slight shrug, points at the camera at the end. He says in Spanish: "Me equivoqué en muchas cosas… para que vos no te equivoques."`
 - **Clip 4a (B-roll):** `He does strict pull-ups on an outdoor metal bar in a park, side angle, afternoon sun, no talking.`
@@ -187,7 +187,7 @@ Copia cada bloque tal cual. Los "…" marcan pausas cortas. Genera un audio por 
 
 **Video 1**
 ```
-Si este año vas a postular al COLMIL, a Sargentos o a la Policía… este video es para vos.
+Si este año vas a postular al COLMIL, Escuela de Sargentos, Policía y otros institutos… este video es para vos.
 Soy Santi Ferrer, de Cochabamba. Vengo de familia militar y me preparé dos años para postular.
 Me equivoqué en muchas cosas… para que vos no te equivoques.
 Acá te enseño a pasar la prueba física, a manejar la altura si rendís en La Paz, qué comer… y qué equipo sí vale la pena.
