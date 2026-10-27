@@ -54,12 +54,10 @@ Standing again in front of the pull-up bars, confident half-smile, he points at 
 
 ## ESCENA 7: cierre (8 s)
 
-**Opción A (recomendada):** reutilizar el cierre del video 1 (escalera, atardecer, puño en el pecho). Así no gastas créditos y el cierre queda igual en todos los videos, como sello de marca.
-
-**Opción B:** generar un cierre nuevo en el parque:
+**Elegido: cierre nuevo en el parque.** Pegar el BLOQUE BASE + este bloque:
 
 ```
-His expression changes from friendly to serious, firm and determined. He stands tall in front of the pull-up bars, and on "¡Firmes y darle!" he places his right fist firmly on his chest. Then he says the second sentence slowly and with conviction, with a short pause after "Grandes logros". At the end he gives one slow nod and holds a steady gaze into the camera for one second. Dialogue, in Spanish with a warm Bolivian accent, strong motivational tone: "¡Firmes y darle! Grandes logros… requieren grandes sacrificios."
+His expression changes from friendly to serious, firm and determined. He stands tall in front of the pull-up bars, and on "¡Firmes y darle!" he places his right fist firmly on his chest. Then he says the second sentence slowly and with conviction, with a short pause after "Grandes logros". At the end he gives one slow nod and holds a steady gaze into the camera for one second. Dialogue, in Spanish with a warm Bolivian accent, strong motivational tone: "¡Firmes y darle! Grandes logros… requieren grandes sacrificios." The phone recording the video is never visible in the frame; only his arm extends toward the camera.
 ```
 
 ## Revisa antes de exportar
