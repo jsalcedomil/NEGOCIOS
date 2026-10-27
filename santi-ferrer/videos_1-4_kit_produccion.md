@@ -24,7 +24,7 @@ Para el avatar que habla (HeyGen), usa la **referencia del rostro y el peinado**
 ## Flujo de producción recomendado
 
 1. **Voz (una sola para todo):** créala en ElevenLabs con *Voice Design*. Descripción sugerida:
-   `Young Bolivian man, 25, from Cochabamba, warm and firm voice, natural Latin American Spanish with soft Andean Bolivian accent, energetic but trustworthy, like a coach talking to a friend.`
+   `Young Bolivian man, 25, from Cochabamba, warm and firm voice, natural Latin American Spanish with soft Andean Bolivian accent, energetic but trustworthy, like a trusted advisor and guide talking to a friend.`
    Genera el audio de cada video con el texto de la columna DIÁLOGO / VOZ EN OFF.
 2. **Clips donde Santi habla a cámara (marcados como HABLA):** usa HeyGen (Avatar IV o *photo avatar*) o la sincronización de labios de Kling. Sube la imagen de inicio del video y el fragmento de audio correspondiente.
    - Para pruebas rápidas puedes usar Veo 3 en modo imagen a video con el prompt de cada clip, que ya trae el diálogo. Ojo: Veo cambia un poco la voz en cada clip.
@@ -64,7 +64,7 @@ slight grain, no text, no logos, no music.
 | # | Tiempo | Tipo | DIÁLOGO / VOZ EN OFF | Texto en pantalla |
 |---|---|---|---|---|
 | 1 | 0–8 s | HABLA ✅ GRABADA (Gemini) | "Si este año vas a postular al COLMIL, Escuela de Sargentos, Policía y otros institutos… este video es para vos." | **¿POSTULÁS ESTE AÑO? 🇧🇴** |
-| 2 | 6–13 s | HABLA | "Soy Santi Ferrer, de Cochabamba. Vengo de familia militar y me preparé dos años para postular." | Santi Ferrer · Coach de postulantes |
+| 2 | 6–13 s | HABLA | "Soy Santi Ferrer, de Cochabamba. Vengo de familia militar y me preparé dos años para postular." | SANTI FERRER · Asesor y guía de aspirantes · Cochabamba |
 | 3 | 13–18 s | HABLA | "Me equivoqué en muchas cosas… para que vos no te equivoques." | — |
 | 4 | 18–28 s | B-ROLL (3 tomas) | Voz en off: "Acá te enseño a pasar la prueba física, a manejar la altura si rendís en La Paz, qué comer… y qué equipo sí vale la pena." | Prueba física · Altura · Nutrición · Equipo |
 | 5 | 28–34 s | HABLA | "Todo gratis, todos los días. Seguime… y mañana empezamos." | **SEGUIME 👆** |
