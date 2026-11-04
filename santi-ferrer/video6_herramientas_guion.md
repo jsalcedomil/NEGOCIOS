@@ -37,3 +37,4 @@
 - **Descripción:** ¿Cuál de estas 5 herramientas usás vos? 💪 Si querés alguna, comentá o escribime al WhatsApp del perfil 📲 #publicidad
 - **Hashtags:** #Entrenamiento #EntrenamientoEnCasa #BandasElasticas #Fitness #VidaSaludable #Cochabamba #Bolivia #Postulantes
 - Activar la etiqueta de **contenido generado con IA** (la voz es generada).
+- **Sin número de WhatsApp en pantalla**: solo "WhatsApp en el perfil".
