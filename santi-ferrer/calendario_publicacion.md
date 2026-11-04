@@ -37,7 +37,7 @@
 - **Comentario fijado:** Comentá "LISTO ✅" cuando bajes tu convocatoria oficial
 
 ### Video 3: COLMIL parte 1 (flexiones y barras)
-- **Descripción:** Flexiones y barras: así te evalúan en el COLMIL 💪 Guardalo 📌 y mañana vemos la parte 2
+- **Descripción:** Lo prometido: así se miden flexiones y barras en el COLMIL 💪 Guardalo 📌 y mañana vemos la parte 2
 - **Hashtags:** #COLMIL #PruebaFisica #Barras #Flexiones #Postulantes #Cochabamba #Bolivia
 - **Comentario fijado:** ¿Cuántas barras hacés hoy? Sé sincero 👇
 
@@ -77,4 +77,4 @@
 
 ## Nota sobre el video 2
 
-En el video 2 Santi dice *"Mañana medimos dónde estás vos"*, y el video 3 explica cómo se miden las pruebas. Encaja, pero conviene que la descripción del video 3 diga **"Lo prometido: así se miden las pruebas"**, para que la continuidad se note.
+En el video 2 Santi dice *"Mañana medimos dónde estás vos"*, y el video 3 explica cómo se miden las pruebas. Encaja, y la descripción del video 3 empieza con **"Lo prometido…"** para que la continuidad se note.
