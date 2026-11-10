@@ -40,4 +40,5 @@ Firmes y darle. Grandes logros requieren grandes sacrificios.
 ## Archivos
 
 - `foto_perfil_santi_1080.jpg`: foto de perfil (1080×1080).
-- `portada_facebook_1640x856.jpg`: portada (1640×856). El texto está en la zona central, para que se vea bien en el celular y en la computadora.
+- `portada_v2_HD_3280x1712.jpg`: **portada recomendada** en alta resolución (3280×1712), con tipografías profesionales. También está en 1640×856 (`portada_v2_HD_1640x856.jpg`).
+- `portada_facebook_1640x856.jpg`: primera versión de la portada (1640×856). El texto está en la zona central, para que se vea bien en el celular y en la computadora.
